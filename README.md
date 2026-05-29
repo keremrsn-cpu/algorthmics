@@ -6,7 +6,6 @@ from random import randint
 ## PART 5 ADD ON##
 from time import time as timer  # imported as timer for convenience
 
-# initialize fonts and mixer
 font.init()
 mixer.init()
 
